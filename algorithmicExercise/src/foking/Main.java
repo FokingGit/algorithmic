@@ -1,11 +1,6 @@
-package foking.exercise;
+package foking;
 
-import foking.exercise.tree.Tree;
-import foking.exercise.tree.TreeNode;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.Random;
+import foking.tree.Tree;
 
 public class Main {
 

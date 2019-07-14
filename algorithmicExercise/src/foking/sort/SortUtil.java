@@ -1,4 +1,4 @@
-package foking.exercise;
+package foking.sort;
 
 import java.util.Arrays;
 

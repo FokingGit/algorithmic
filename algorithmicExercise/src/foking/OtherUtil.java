@@ -1,4 +1,4 @@
-package foking.exercise;
+package foking;
 
 public class OtherUtil {
 

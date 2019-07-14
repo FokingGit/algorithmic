@@ -1,4 +1,4 @@
-package foking.exercise;
+package foking.leetcode.array;
 
 import java.util.HashMap;
 import java.util.Map;

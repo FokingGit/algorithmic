@@ -1,4 +1,4 @@
-package foking.exercise.tree;
+package foking.tree;
 
 public class TreeNode {
     private int data;
